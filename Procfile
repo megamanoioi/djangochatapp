@@ -1,1 +1,0 @@
-web gunicorn djangochatapp.wsgi:application --log-file -
